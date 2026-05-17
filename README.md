@@ -34,3 +34,4 @@
 
 [![Badge Title](https://learn.microsoft.com/api/achievements/share/en-us/SoureenLaha-9137/U78DEXF3?sharingId=8673B3D02DED10A3)]
 
+[![Badge Title](https://learn.microsoft.com/en-us/users/me/achievements#badges-section)](https://learn.microsoft.com/api/achievements/share/en-us/SoureenLaha-9137/U78DEXF3?sharingId=8673B3D02DED10A3)
